@@ -1,6 +1,4 @@
 # SumAndCheckPrime_Server
-Rest API that is utlizilzed by SumAndCheckPrime_Client
-
 Problem Stament:
 Using C#, implement a backend REST API which:
 1) Takes multiple integers as input, calculates the sum, and returns the sum including information whether the sum is a prime number or not.
